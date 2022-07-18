@@ -1,5 +1,3 @@
-let age: number
-age = 30
-const userName = 'lawrence615'
+const app = 'Test App'
 
-console.log('username:', userName)
+console.log('testing:', app)
