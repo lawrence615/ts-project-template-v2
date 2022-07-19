@@ -15,13 +15,13 @@ cd classes-and-interfaces
 npm install
 ```
 
-## Start development server
+## Start development server (terminal 1)
 
 ```
 npm start
 ```
 
-## Start TypeScript compilation in watch mode (in a separate terminal)
+## Start TypeScript compilation in watch mode (terminal 2)
 
 ```
 tsc -w
